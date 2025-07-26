@@ -1,8 +1,8 @@
 module github.com/fosrl/gerbil
 
-go 1.23.1
+go 1.24
 
-toolchain go1.23.2
+toolchain go1.24
 
 require (
 	github.com/vishvananda/netlink v1.3.1
